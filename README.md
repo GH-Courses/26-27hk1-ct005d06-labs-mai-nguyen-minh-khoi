@@ -8,4 +8,4 @@ HKx, Năm học: 2026-2027
 
 **Mã lớp học**: 26D6A1
 
-## Lab05_Ex3.2:
+## Lab05_Ex3.2:https://github.com/MinhKhoi2605809/CT005_Lab05.git
